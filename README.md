@@ -1,12 +1,12 @@
 <h2 align="center">Hi 👋 I'm Melisa</h2>
 
-<h4 align="left">👩🏻‍💻  About Me</h4>
+<h3 align="left">👩🏻‍💻  About Me</h3>
 
 <p>A Machine Learning practitioner based in Paris. Currently pursuing a master degree in Applied Mathematics and Computer Science.</p>
 
 
 
-<h4 align="left">🛠️  Tech Stack</h4>
+<h3 align="left">🛠️  Tech Stack</h3>
 
 
 *  <p>Programming languages :</p>
@@ -28,5 +28,5 @@
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 
 
-<h4 align="left">🔗  Let's Connect</h4>
+<h3 align="left">🔗  Let's Connect</h3>
 www.linkedin.com/in/melisa-varol
