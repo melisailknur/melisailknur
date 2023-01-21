@@ -23,6 +23,4 @@
 
 
 <h3 align="left">🔗 Let's Connect:</h3>
-<p align="left">
-  <a href=”https://www.linkedin.com/in/melisavarol/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
-</p>
+www.linkedin.com/in/melisa-varol
