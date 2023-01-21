@@ -1,8 +1,6 @@
 ### Hi 👋 
 
 I'm Melisa, a Machine Learning practitioner based in Paris. Currently pursuing a master degree in Applied Mathematics and Computer Science.
-<!--
-**melisailknur/melisailknur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 💻 I’m currently working on a Computer Vision project.
 
